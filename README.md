@@ -8,7 +8,7 @@
 - 🎓 Background in **Foreign Trade (BBA)** with certifications in **Data Analytics**
 - 💼 Internship experience in Data Analytics and Business Operations, applying analytical insights to real-world business scenarios 
 - 💻 Passionate about **Data Science, Forecasting, and Business Intelligence**  
-- 📝 Author of the poetry anthology *A Solitary Mind*  
+- 📝 Author of the poetry anthology *'A Solitary Mind'*  
 - 🎨 Artist — check out my work on [Instagram: @solitarymind](https://instagram.com/solitarymind)  
 - 🏆 Achievements: Served as **Student Placement Coordinator**, recognized at **Smart India Hackathon & CBSE Science Exhibition**, and presented research at **ICMC’25 & ACBSP’25**  
 - 🤝 Active in social impact — **Rotaract Club member** and **NGO volunteer**  
