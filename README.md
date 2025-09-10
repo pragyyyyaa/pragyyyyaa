@@ -1,4 +1,4 @@
-![Linkedin_Cover](https://user-images.githubusercontent.com/placeholder/banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
 <h3 align="center">Aspiring Data Analyst | MBA Student | Writer | Artist</h3>
@@ -40,20 +40,6 @@ My work reflects a blend of curiosity and practical application. I have explored
 <a href="https://github.com/yourgithub" target="blank"><img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="50" height="50"/></a>
 <a href="https://instagram.com/solitarymind" target="blank"><img src="https://img.icons8.com/color/344/instagram-new.png" alt="Instagram" width="50" height="50"/></a>
 </p>
-
----
-
-## 📚 `Read & Explore`
-- [Time Series Forecasting Notes](#) :books:  
-- [Regression Modeling Insights](#) ✍️  
-- [P&L Scenario Simulation](#) :chart_with_upwards_trend:  
-
----
-
-## 📈 `GitHub Stats`
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YourGitHubID&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight"/> </p>
-<p align="center"> <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=YourGitHubID&theme=neon-palenight" alt="streak"/> </p>
 
 ---
 
