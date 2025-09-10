@@ -10,15 +10,15 @@
 - 💼 Internship experience in Data Analytics and Business Operations, applying analytical insights to real-world business scenarios 
 - 💻 Passionate about **Data Science, Forecasting, and Business Intelligence**  
 - 📝 Author of the poetry anthology *'A Solitary Mind'*  
-- 🎨 Artist — check out my work on [Instagram: @solitarymind](https://instagram.com/solitarymind)  
+- 🎨 Artist - check out my work on [Instagram: @solitarymind](https://instagram.com/solitarymind)  
 - 🏆 Achievements: Served as **Student Placement Coordinator**, recognized at **Smart India Hackathon & CBSE Science Exhibition**, and presented research at **ICMC’25 & ACBSP’25**  
-- 🤝 Active in social impact — **Rotaract Club member** and **NGO volunteer**  
+- 🤝 Active in social impact - **Rotaract Club member** and **NGO volunteer**  
 - 🌍 Interests span **analytics, strategy, innovation, writing, art, and community building**  
 
 ---
 
 ## 🚀 `Interests & Work`
-My work reflects a blend of curiosity and practical application. I have explored **demand forecasting** using Moving Averages, Exponential Smoothing & ARiMA to model consumer trends, forecasting, and feature selection, I have also developed several **Regression & Classification models** through, SLR, MLR, Logit, and Decision trees. Learned application of  SMOTE to address the imbalance in data. In the area of business strategy, I have used **Exploratory Data Analysis**, **Power BI/Tableau dashboards** for uncovering gaps, business insights for decision making, KPI tracking and reporting. Beyond analytics, I initiated **MealBridge**, a non-profit platform connecting donors and volunteers to support underprivileged communities — a project that combines empathy with innovation. These pursuits not only highlight my interests but also reflect my growing capabilities as a data-driven problem solver.  
+My work reflects a blend of curiosity and practical application. I have explored **demand forecasting** using Moving Averages, Exponential Smoothing & ARiMA to model consumer trends, forecasting, and feature selection, I have also developed several **Regression & Classification models** through, SLR, MLR, Logit, and Decision trees. Learned application of  SMOTE to address the imbalance in data. In the area of business strategy, I have used **Exploratory Data Analysis**, **Power BI/Tableau dashboards** for uncovering gaps, business insights for decision making, KPI tracking and reporting. Beyond analytics, I initiated **MealBridge**, a non-profit platform connecting donors and volunteers to support underprivileged communities - a project that combines empathy with innovation. These pursuits not only highlight my interests but also reflect my growing capabilities as a data-driven problem solver.  
 
 ---
 
