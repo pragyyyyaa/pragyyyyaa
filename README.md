@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
-<h3 align="center">Aspiring Data Analyst | MBA Student | Writer | Artist</h3>
+<h3 align="center">Aspiring Data Scientist | MBA Student | Writer | Artist</h3>
 
 - 🌱 Currently pursuing my **PGDM (MBA) at WeSchool Mumbai**
 - 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/pragya-gupta-729210202/ 
