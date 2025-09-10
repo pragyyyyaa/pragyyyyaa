@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
 <h3 align="center">Aspiring Data Analyst | MBA Student | Writer | Artist</h3>
 
-- 🌱 Currently pursuing my **PGDM (MBA) at WeSchool Mumbai**  
+- 🌱 Currently pursuing my **PGDM (MBA) at WeSchool Mumbai**
+- 🌐 Connect wit me on LinkedIn: (https://www.linkedin.com/in/pragya-gupta-729210202/)  
 - 🎓 Background in **Foreign Trade (BBA)** with certifications in **Data Analytics**  
 - 💻 Passionate about **Data Science, Forecasting, and Business Intelligence**  
 - 📝 Author of the poetry anthology *A Solitary Mind*  
