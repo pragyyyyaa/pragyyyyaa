@@ -4,6 +4,7 @@
 <h3 align="center">Aspiring Data Scientist | MBA Student | Writer | Artist</h3>
 
 - 🌱 Currently pursuing my **PGDM (MBA) at WeSchool Mumbai**
+- 📧 Reach me at: pragya2000gupta@email.com
 - 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/pragyagupta
 - 🎓 Background in **Foreign Trade (BBA)** with certifications in **Data Analytics**
 - 💼 Internship experience in Data Analytics and Business Operations, applying analytical insights to real-world business scenarios 
